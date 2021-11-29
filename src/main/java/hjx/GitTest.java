@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("git - idea - 3");
         System.out.println("hot-fix-1");
         System.out.println("hot-fix 和 master 冲突测试");
+        System.out.println("hot-fix-2");
     }
 }
